@@ -17,7 +17,8 @@ HW linux premissions for TMS
 3) Создать директорию `/home/eve`, дать пользователю `eve` права на него
 
 <img width="598" height="275" alt="изображение" src="https://github.com/user-attachments/assets/bedb20c1-dff1-44d9-a544-77b4f736d7a7" />
-
+<br>
+<br>
 
 4) Переименовать пользователя `vally` в `robot` и проверить, изменился ли UID
 
@@ -28,7 +29,8 @@ HW linux premissions for TMS
 5) Создать группу `tms`
 
 <img width="541" height="101" alt="изображение" src="https://github.com/user-attachments/assets/f0161077-aa8f-4392-a65d-d14943590b4c" />
-
+<br>
+<br>
 
 6) Добавить пользователя `robot` в группу `tms`
 
