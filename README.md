@@ -28,7 +28,7 @@ HW linux premissions for TMS
 
 5) Создать группу `tms`
 
-<img width="541" height="101" alt="изображение" src="https://github.com/user-attachments/assets/f0161077-aa8f-4392-a65d-d14943590b4c" />
+<img width="618" height="185" alt="изображение" src="https://github.com/user-attachments/assets/ed6ab73b-b336-4d8c-8ed1-9382e859c91f" />
 <br>
 <br>
 
