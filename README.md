@@ -16,7 +16,7 @@ HW linux premissions for TMS
 
 3) Создать директорию `/home/eve`, дать пользователю `eve` права на него
 
-<img width="598" height="275" alt="изображение" src="https://github.com/user-attachments/assets/bedb20c1-dff1-44d9-a544-77b4f736d7a7" />
+<img width="498" height="147" alt="изображение" src="https://github.com/user-attachments/assets/a153d8db-0f87-4ec8-b28f-d35b927cbd07" />
 <br>
 <br>
 
